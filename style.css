@@ -1,0 +1,121 @@
+body {
+  font-family: sans-serif;
+  background-color: rgba(95, 158, 160, 0.416);
+}
+
+.related {
+  list-style: none;
+  background-color: aliceblue;
+  border-top: 10px darkcyan;
+  border-bottom: 10px darkcyan;
+  border-style: ridge;
+  padding: 20px;
+}
+h1 {
+  border-style: solid;
+  padding: 5px 10px;
+  border-top: none;
+  border-bottom: none;
+  border-width: 10px;
+  border-color: rgb(73, 38, 172);
+  border-radius: 10px;
+  /* I wasn't sure how to get the right border-right closer to h1 */
+}
+aside {
+  border: dashed;
+  background-color: aliceblue;
+  font-size: 20px;
+}
+.related :nth-child(2) {
+  font-style: italic;
+}
+.related :nth-child(5) {
+  font-style: italic;
+}
+.related :nth-child(8) {
+  font-style: italic;
+}
+.related :nth-child(11) {
+  font-style: italic;
+}
+.related :nth-child(14) {
+  font-style: italic;
+}
+.related :nth-child(17) {
+  font-style: italic;
+}
+.related :nth-child(20) {
+  font-style: italic;
+}
+.related :nth-child(23) {
+  font-style: italic;
+}
+.related :nth-child(26) {
+  font-style: italic;
+}
+.related :nth-child(29) {
+  font-style: italic;
+}
+.related :nth-child(32) {
+  font-style: italic;
+}
+.related :nth-child(35) {
+  font-style: italic;
+}
+.related :nth-child(38) {
+  font-style: italic;
+}
+.related :nth-child(41) {
+  font-style: italic;
+}
+.related :nth-child(44) {
+  font-style: italic;
+}
+.related :nth-child(47) {
+  font-style: italic;
+}
+.related :nth-child(50) {
+  font-style: italic;
+}
+.related :nth-child(53) {
+  font-style: italic;
+}
+.related :nth-child(56) {
+  font-style: italic;
+}
+.related :nth-child(59) {
+  font-style: italic;
+}
+.related :nth-child(62) {
+  font-style: italic;
+}
+.related :nth-child(65) {
+  font-style: italic;
+}
+.related :nth-child(68) {
+  font-style: italic;
+}
+.related :nth-child(71) {
+  font-style: italic;
+}
+.related :nth-child(74) {
+  font-style: italic;
+}
+.related :nth-child(77) {
+  font-style: italic;
+}
+.related :nth-child(80) {
+  font-style: italic;
+}
+.related :nth-child(83) {
+  font-style: italic;
+}
+.related :nth-child(86) {
+  font-style: italic;
+}
+.related :nth-child(89) {
+  font-style: italic;
+}
+.related :nth-child(92) {
+  font-style: italic;
+}
